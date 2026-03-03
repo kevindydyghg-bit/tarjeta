@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;     
+    background-color: #ffffff; 
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+.tarjeta {
+    background-color: rgb(200, 227, 239);
+    width: 350px;
+    padding: 30px;
+    text-align: center; 
+    border: 2px solid #ccc;
+        
+}
+
+.foto-perfil {
+    width: 150px;            
+    height: 150px;           
+    border-radius: 50%;      
+    object-fit: cover;      
+}
+
+.nombre {
+    margin-top: 15px;
+    color: #333;
+    font-size: 1.8rem;
+}
+
+.descripcion {
+    color: #666;
+    line-height: 1.5;
+    font-style: italic;     
+ }
