@@ -4,6 +4,8 @@ body {
     align-items: center;     
     background-color: #ffffff; 
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    min-height: 100vh; 
+    margin: 0;
 }
 
 .tarjeta {
@@ -12,7 +14,7 @@ body {
     padding: 30px;
     text-align: center; 
     border: 2px solid #ccc;
-        
+    border-radius: 10px; 
 }
 
 .foto-perfil {
@@ -32,4 +34,15 @@ body {
     color: #666;
     line-height: 1.5;
     font-style: italic;     
- }
+}
+
+/*HERENCIA*/
+.caja-herencia {
+    color: #004080; 
+    font-family: 'Courier New', Courier, monospace; 
+    
+    margin-top: 20px;
+    border-top: 2px dashed #999;
+    padding-top: 15px;
+    text-align: left; 
+}
