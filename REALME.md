@@ -6,7 +6,7 @@ Este es un proyecto súper sencillo de una sola página web que funciona como mi
 
 ## Ver en vivo (GitHub Pages)
 Puedes ver mi tarjeta funcionando aquí:
-👉 **[PEGA_AQUÍ_TU_ENLACE_DE_GITHUB_PAGES]**
+https://github.com/kevindydyghg-bit/tarjeta.git
 
 ## Cómo usar este proyecto
 1. Descarga el repositorio.
